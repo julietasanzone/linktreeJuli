@@ -48,7 +48,7 @@ h1 {
   width: 200px;
   margin: 10px auto; /* Espaciado y centrado */
   padding: 12px 20px;
-  background-color: #4a90e2;
+  background-color: #6c63ff;
   color: white;
   text-align: center;
   text-decoration: none;
@@ -58,6 +58,6 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #357ab7;
+  background-color: #574dcf;
 }
 
