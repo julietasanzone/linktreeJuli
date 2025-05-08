@@ -44,16 +44,20 @@ h1 {
 }
 
 .btn {
-  display: inline-block;
-  text-decoration: none;
-  background-color: #6c63ff;
-  color: white;
+  display: block; /* Hace que cada botón ocupe una línea completa */
+  width: 200px;
+  margin: 10px auto; /* Espaciado y centrado */
   padding: 12px 20px;
-  border-radius: 30px;
-  font-size: 16px;
+  background-color: #4a90e2;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
   transition: background-color 0.3s ease;
 }
 
 .btn:hover {
-  background-color: #574dcf;
+  background-color: #357ab7;
 }
+
